@@ -1,0 +1,6 @@
+{
+  "name": "Saipratap Dansana – 3D Digital Universe Portfolio",
+  "description": "Interactive 3D personal portfolio of Saipratap Dansana (SAIPRATAP) showcasing software projects, 3D web experiences, Android/Kotlin AI apps, and live GitHub repositories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
